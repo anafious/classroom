@@ -1,0 +1,6 @@
+ID;mitigationsID;counter;description;risk_ID
+d387bc3f-33e6-4655-877b-cf278dde04fe;M001;10;Implement data encryption to protect sensitive data.;d387bc3f-33e6-4655-877b-cf278dde04fe
+d6516626-19e1-4d15-a09f-b8f3a67d1762;M002;5;Set up redundant servers for high availability.;d6516626-19e1-4d15-a09f-b8f3a67d1762
+f5cabd8b-ec61-4aad-a09f-52f0e61df57e;M003;8;Establish relationships with multiple vendors for risk diversification.;f5cabd8b-ec61-4aad-a09f-52f0e61df57e
+0199e23d-b041-47ab-8599-4aa2fd6fb79a;M004;15;Implement regular audits and compliance checks.;0199e23d-b041-47ab-8599-4aa2fd6fb79a
+6e01e509-ce28-43bf-a47e-c5767615a68e;M005;12;Implement strong firewalls and intrusion detection systems.;6e01e509-ce28-43bf-a47e-c5767615a68e

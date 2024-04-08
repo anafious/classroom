@@ -1,0 +1,6 @@
+ID;risksID;name;description;impact;criticality;mitigation_ID
+d387bc3f-33e6-4655-877b-cf278dde04fe;R001;Data Breach;Sensitive customer data may be compromised.;5000;7;d387bc3f-33e6-4655-877b-cf278dde04fe
+d6516626-19e1-4d15-a09f-b8f3a67d1762;R002;Server Downtime;System outage may result in loss of business productivity.;10000;9;d6516626-19e1-4d15-a09f-b8f3a67d1762
+f5cabd8b-ec61-4aad-a09f-52f0e61df57e;R003;Vendor Failure;Dependence on a single vendor may lead to service disruptions.;8000;6;f5cabd8b-ec61-4aad-a09f-52f0e61df57e
+0199e23d-b041-47ab-8599-4aa2fd6fb79a;R004;Regulatory Non-compliance;Failure to comply with regulations may result in penalties.;15000;8;0199e23d-b041-47ab-8599-4aa2fd6fb79a
+6e01e509-ce28-43bf-a47e-c5767615a68e;R005;Cyber Attack;Malicious hackers may gain unauthorized access to the system.;12000;7;6e01e509-ce28-43bf-a47e-c5767615a68e
